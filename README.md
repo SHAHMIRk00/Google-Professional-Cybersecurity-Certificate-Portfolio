@@ -7,13 +7,13 @@ In this course I gained foundational knowledge that will prepare me for entry-le
 
 This course covered many conceptual topics such as:
 
-Risk management
+- Risk management
 
-Threat analysis
+- Threat analysis
 
-Network security
+- Network security
 
-Incident response
+- Incident response
 
 
 
@@ -21,19 +21,19 @@ Incident response
 
 It also taught me technical skills with:
 
-Linux
+- Linux
 
-Python
+- Python
 
-SQL
+- SQL
 
-SIEM tools (Splunk and Chronicle)
+- SIEM tools (Splunk and Chronicle)
 
-Network protocol analyzers (Wireshark and tcpdump)
+- Network protocol analyzers (Wireshark and tcpdump)
 
-IDS/IPS tools
+- IDS/IPS tools
 
-Firewalls
+- Firewalls
 
 
 
