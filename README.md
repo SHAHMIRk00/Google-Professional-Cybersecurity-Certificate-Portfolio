@@ -19,6 +19,10 @@ This course covered many conceptual topics such as:
 
 
 
+
+
+
+
 It also taught me technical skills with:
 
 - Linux
